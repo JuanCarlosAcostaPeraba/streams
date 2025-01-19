@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
-public class Exercices {
+public class Exercises {
     /**
      * Found the words that start with the letter "a" to the letter "m".
      *
